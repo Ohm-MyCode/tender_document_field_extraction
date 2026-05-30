@@ -1,0 +1,1 @@
+1) pip install easyocr pdf2image pillow opencv-python
