@@ -1,1 +1,7 @@
-1) pip install easyocr pdf2image pillow opencv-python
+#Python Version: 3.11+
+easyocr>=1.7.2
+numpy>=2.0.0
+pandas>=2.2.0
+Pillow>=11.0.0
+PyMuPDF>=1.26.0
+pdf2image>=1.17.0

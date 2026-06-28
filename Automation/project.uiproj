@@ -1,0 +1,6 @@
+{
+  "Name": "Automation",
+  "ProjectType": "Process",
+  "Description": "UiPath process to monitor and call python script for document extraction",
+  "MainFile": "Main.xaml"
+}

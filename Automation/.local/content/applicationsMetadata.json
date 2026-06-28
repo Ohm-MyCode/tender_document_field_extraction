@@ -1,0 +1,31 @@
+﻿{
+  "Version": "1.0",
+  "Metadata": [
+    {
+      "ApplicationType": "WindowsApplication",
+      "ExecutablePath": {
+        "Value": "projectpath",
+        "IsExpression": true
+      },
+      "Url": null,
+      "Arguments": {
+        "Value": "\"\"\"C:\\Users\\Kshitij\\code\\doc_verification\\hello.py\"\" \"\"\" & folderpath & \"\"\"\"",
+        "IsExpression": true
+      },
+      "Version": null
+    },
+    {
+      "ApplicationType": "WindowsApplication",
+      "ExecutablePath": {
+        "Value": "excel.exe",
+        "IsExpression": false
+      },
+      "Url": null,
+      "Arguments": {
+        "Value": "C:\\Users\\Kshitij\\Desktop\\tenderproject.xlsx",
+        "IsExpression": false
+      },
+      "Version": null
+    }
+  ]
+}

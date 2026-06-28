@@ -1,2 +1,7 @@
 notes
 .venv/
+*.pdf
+__pycache__/
+*.pyc
+*.log
+backups/
