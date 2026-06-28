@@ -26,6 +26,7 @@ The workflow combines **Python** for document processing and **UiPath** for orch
 
 ## Project Structure
 
+```
 project/
 │
 ├── Input/
@@ -37,7 +38,8 @@ project/
 │   └── summary_output.csv
 │
 ├── Processed/
-|
+│
+├── Automation/
 │
 ├── src/
 │   ├── aggregator.py
@@ -47,7 +49,7 @@ project/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 ## Requirements
 
 * Python 3.11 or later
@@ -90,7 +92,7 @@ The CSV contains:
 UiPath reads this CSV and writes the extracted information into the required Excel template.
 
 ## Workflow
-
+```
 Input Folder
       │
       ▼
@@ -111,7 +113,7 @@ UiPath
  ├── Read CSV
  ├── Populate Excel
  └── Move Processed Folder
-
+```
 ## Notes
 
 * OCR is performed only on scanned pages.
