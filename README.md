@@ -22,11 +22,10 @@ The workflow combines **Python** for document processing and **UiPath** for orch
 * Populates the required Excel template through UiPath
 * Moves processed folders after successful execution
 
----
+
 
 ## Project Structure
 
-```
 project/
 │
 ├── Input/
@@ -48,9 +47,6 @@ project/
 ├── main.py
 ├── requirements.txt
 └── README.md
-```
-
----
 
 ## Requirements
 
